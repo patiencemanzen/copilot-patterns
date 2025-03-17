@@ -9,7 +9,7 @@ Our aim is to make it straightforward for you to understand, evaluate, and integ
 This document is brought to you by GitHub's Customer Success Architect [@yuhattor](https://github.com/yuhattor/) to help developers better use GitHub Copilot and other AI-Powered tools.
 
 Some of these patterns have been tried and proven effective in individual environments, but others are idea-based and have not yet been tested for effectiveness in actual team environments.
-Please feel free to leave comments on GitHub Issues. We look forward to various discussions and the sharing of knowledge about AI Powered development.
+Please feel free to leave comments on GitHub Issues. We look forward to various discussions and the sharing of knowledge about AI-Powered development.
 
 > This documentation is not yet in its final version, and there may be broken links, typos, and other errors.
 > Your help in improving it is much appreciated. Please see how you can contribute to this document.
@@ -44,7 +44,3 @@ This document is lead authored by [Yuki Hattori](https://github.com/yuhattor), a
 <img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" Title="Creative Commons License">
 
 This document is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) License.
-
----
-
-Thank you for being a part of this journey. Together, we can shape the future of AI Powered Development!
